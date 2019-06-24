@@ -25,3 +25,5 @@ hs_err_pid*
 #eclipse dir
 .metadata/
 .recommenders/
+
+/lab01_pawelZoltaniecki/.settings/org.eclipse.jdt.core.prefs
