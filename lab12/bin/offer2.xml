@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<offer>
+    <id>2</id>
+    <price>123.0</price>
+    <equipment>
+        <name>Snow</name>
+        <description>Snieg </description>
+    </equipment>
+    <seller>
+        <firstName>Adam</firstName>
+        <lastName>Olek</lastName>
+        <address>
+            <addressLine1>Ols 1</addressLine1>
+            <addressLine2>Wawa</addressLine2>
+            <country>Poland</country>
+            <zip>11-212</zip>
+        </address>
+    </seller>
+</offer>

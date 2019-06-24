@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<offer>
+    <id>1</id>
+    <price>499.99</price>
+    <equipment>
+        <name>Narty</name>
+        <description>uzywane Fisher</description>
+    </equipment>
+    <seller>
+        <firstName>Pawel</firstName>
+        <lastName>Zolty</lastName>
+        <address>
+            <addressLine1>AStrow 6</addressLine1>
+            <addressLine2>Zory</addressLine2>
+            <country>Polska</country>
+            <zip>44-240</zip>
+        </address>
+    </seller>
+</offer>

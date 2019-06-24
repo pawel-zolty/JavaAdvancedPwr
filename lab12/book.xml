@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<offer>
+    <id>2</id>
+    <price>200.0</price>
+    <equipment>
+        <name>Snowboard</name>
+        <description>Snowboard for professional</description>
+    </equipment>
+    <seller>
+        <firstName>Zolty</firstName>
+        <address>
+            <addressLine1>Astrów 6</addressLine1>
+            <country>Poland</country>
+            <zip>11-111</zip>
+        </address>
+    </seller>
+</offer>

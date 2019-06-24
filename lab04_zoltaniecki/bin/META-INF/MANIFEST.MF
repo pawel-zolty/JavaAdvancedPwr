@@ -1,0 +1,5 @@
+Manifest-Version: 0.1
+
+Name: lab04_zoltaniecki.ClockBean.class
+Java-Bean: True
+
